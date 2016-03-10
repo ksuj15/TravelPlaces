@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Travel Places</string>
+    <string name="placesToGo">Top 5 places To Travel in 2016</string>
+    <string name="estonia_info">
+       \n  Visitors to <b>Estonia</b> encounter a mix of urbanity and wilderness, of the medieval and the contemporary,\n
+        with crumbling castles and colourful design permeating urban landscapes.\n
+        An efficient transport system makes it easy to get around, and the tech-savvy,
+        dynamic residents welcome visitors with open arms.\n
+        Friction between older generations of Russians and Estonians is a throwback to the Soviet era,\n
+        while younger people mix freely, and those who get past the Estonians’ natural reserve find them to be gregarious,
+        uninhibited hosts.
+        \n
+        Read more: <a href="https://en.wikipedia.org/wiki/Estonia"> Click Here</a></string>
+    <string name="hochi_info">
+        "\n Welcome to one of Asia's most compelling cities.
+        <b>Ho Chi Minh City</b> is the energetic commercial hub of modern Vietnam, with wide boulevards, grand colonial buildings,fascinating cultural sights, and a vibrant tangle of narrow laneways – all framed by a kinetic river of traffic.
+        Exploring the streets from the back seat of a Vespa is an exhilarating way to get a feel for a city with nearly 5 million motorbikes.
+        To get your orientation fast, jump on an organised tour with an emphasis on food, nightlife,
+        iconic sights or unusual attractions; a guide can help you discover the hot spots."
+
+        Read more:<a href="https://en.wikipedia.org/wiki/Ho_Chi_Minh_City">Click Here</a> </string>
+    <string name="africa_info">
+     " \n <b>East Africa</b> is world famous for its spectacular wildlife and panoramas:
+        the annual migration of two million zebras and wildebeest in the Serengeti and Maasai Mara Game Reserves, the breathtaking natural wonder of the gigantic Ngorongoro Crater,
+        the largest unbroken volcanic caldera in the world, teeming with wildlife in its center,the majestic snow-capped Mount Kilimanjaro.
+        The continent’s unique, dazzling wildlife and landscapes are precious natural resources, and add much to the mystique of Africa.
+        The variety of East Africa’s marine life is incredible, consisting of delicate seahorses,razor- and pipe-fish, dazzling angel- and butterfly-fish, mudskippers, and
+        the giants of the open sea—sharks, tuna, black marlin, and the odd-looking sunfish, Mola mola,which is the world’s largest and heaviest bony fish, known to reach weights over a ton.
+        The inshore waters support more than 11,000 known species of plants and animals, an estimated 10percent to 15percentof which are thought to be endemic to this ecoregion."
+
+        Read more:<a href="https://en.wikipedia.org/wiki/East_Africa">Click Here</a> </string>
+
+    <string name="mexico_info">
+      "\n  Boasting one of most incredibly scenic and diverse landscapes in North America,New Mexico offers endless opportunities for exploration and adventure.
+        With strong influences of both Native American and Hispanic culture,the state offers the visitor a multitude of unique attractions both in large cities like Santa Fe and Albuquerque as well as the smaller hubs of UFO-focused Roswell and the artists' colony of Taos.
+        Center of the American Southwest, the Land of Enchantment didn't gain statehood until 1912.
+        Today, New Mexico offers the visitor fantastic nature experiences, distinctive cuisine,and an impressive fine arts scene.
+        White Sands National Monument is one of the most stunning landscapes in the state,located a half an hour's drive southwest of Alamogordo in the south of New Mexico.\n "
+
+         Read more:<a href="https://en.wikipedia.org/wiki/New_Mexico">Click Here</a></string>
+    <string name="bosnia_info">
+       " \n Bosnia and Herzegovina , a country on the Balkan Peninsula in southeastern Europe, encompasses mountainous terrain,medieval villages and Muslim and Christian landmarks.
+        Its countryside is marked by deep gorges,turquoise rivers and lakes, and the Dinaric Alps forests and crags.
+        It's a popular destination for outdoor sports such as hiking, mountain biking, white-water rafting and skiing.
+        Bosnian towns are lovably small, wrapped around medieval castles and surrounded by mountain ridgesor cascading river canyons.
+        Few places in Europe offer better rafting or such accessible, inexpensive skiing. "
+        \n
+       Read more:<a href="https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina">Click Here</a></string>
+</resources>
