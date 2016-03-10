@@ -30,7 +30,8 @@
             android:layout_marginBottom="10dp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
-            android:src="@drawable/rsz_estonia_1" />
+            android:src="@drawable/rsz_estonia_1"
+            android:onClick="activity_estonia" />
 
         <Button
             android:layout_width="match_parent"
@@ -47,7 +48,8 @@
             android:src="@drawable/rsz_hochiminh_2"
             android:layout_marginBottom="10dp"
             android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"/>
+            android:layout_marginRight="10dp"
+            android:onClick="activity_hochi" />
 
         <Button
             android:layout_width="match_parent"
@@ -63,7 +65,8 @@
             android:scaleType="centerCrop"
             android:layout_marginBottom="10dp"
             android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"/>
+            android:layout_marginRight="10dp"
+            android:onClick="activity_eastafrica" />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -78,7 +81,8 @@
             android:scaleType="centerCrop"
             android:layout_marginBottom="10dp"
             android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"/>
+            android:layout_marginRight="10dp"
+            android:onClick="activity_mexico" />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -93,7 +97,8 @@
             android:scaleType="centerCrop"
             android:layout_marginBottom="10dp"
             android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"/>
+            android:layout_marginRight="10dp"
+            android:onClick="activity_bosnia" />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

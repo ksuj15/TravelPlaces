@@ -29,9 +29,31 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         button_bosnia.setOnClickListener(this);
 
     }
+    // onclick methods for images
+    public void activity_estonia(View view){
+        Intent int1=new Intent(getApplicationContext(),Activity_Estonia.class);
+        startActivity(int1);
+    }
+    public void activity_hochi(View view){
+        Intent int2=new Intent(getApplicationContext(),Activity_Hochi.class);
+        startActivity(int2);
+    }
+    public void activity_eastafrica(View view){
+        Intent int3=new Intent(getApplicationContext(),Activity_Eastafrica.class);
+        startActivity(int3);
+    }
+    public void activity_mexico(View view){
+        Intent int4=new Intent(getApplicationContext(),Activity_Newmexico.class);
+        startActivity(int4);
+    }
+
+    public void activity_bosnia(View view){
+        Intent int5=new Intent(getApplicationContext(),Activity_Bosnia.class);
+        startActivity(int5);
+    }
 
 
-    @Override
+        @Override
     public void onClick(View v) {
         switch (v.getId()){
             case R.id.button_estonia:
